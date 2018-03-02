@@ -1,0 +1,29 @@
+..banner {
+	background-image: url(../img/banner.jpg);
+	background-position: center top;
+	background-repeat: no-repeat;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-webkit-background-size: cover;
+	background-size: cover;
+	min-height: 750px;
+}
+.banner-inner-wrapper {
+	float: right;
+}
+.banner-text {
+	padding-top: 45%;
+}
+.banner-text h1 {
+	color: #393939;
+	font-family: "Open Sans", sans-serif;
+	font-size: 23px;
+	font-weight: 400;
+}
+.banner-text p {
+	color: #393939;
+	font-size: 15px;
+	font-weight: 300;
+	line-height: 1.5;
+	margin-bottom: 1%;
+}
