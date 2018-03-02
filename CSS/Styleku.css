@@ -1,0 +1,22 @@
+h1 {
+	color:#ffb3b3;
+	margin: 15px;
+}
+
+
+p {
+	color:#ffccb3;
+}
+
+#nav {
+	border:5px dotted orange;
+	margin: 10px 20px 20px 10px;
+	padding: 5px;
+}
+#nav a {
+	color:#d98cb3;
+	text-decoration: none;
+}
+.desc {
+	font-family: FreeSans
+}
